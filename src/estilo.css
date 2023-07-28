@@ -1,0 +1,17 @@
+* {
+    font-family: 'Poppins' , sans-serif;
+}
+
+body {
+    font-size: 80%;
+    justify-content: center;
+    align-items: center;
+}
+
+.centrar {
+    justify-content: center;
+    align-items: center;
+}
+
+
+
